@@ -47,14 +47,6 @@ const Testimonials = () => {
             </Card>
           ))}
         </div>
-
-        <div className="max-w-4xl mx-auto">
-          <img
-            src={testimonialsImage}
-            alt="Depoimentos de clientes"
-            className="w-full rounded-lg shadow-xl"
-          />
-        </div>
       </div>
     </section>
   );
